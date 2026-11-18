@@ -61,10 +61,3 @@ repeater submissions.
 | `04-repeatable-group-field-renderer.php` | `Components/Fields/bootstrap.php`, method `group()` | Renders the flexible list of editor-defined group items. |
 | `05-front-end-output.php` | `Templates/page/admissions.php` | How group data is rendered and escaped. |
 
-**Honest scope:** These are curated excerpts from the actual theme, not a
-standalone WordPress plugin. The method bodies are preserved from the uploaded
-source; only the trait wrappers and the short frontend connecting lines were
-added for presentation. Other methods (`sanitize_field_value()`,
-`sanitize_json_rows()`, `get_array()`, etc.) and the theme's admin JavaScript
-are not included to keep the sample below the 500-line limit. The excerpts
-must run within their original theme context.
