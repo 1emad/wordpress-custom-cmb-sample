@@ -69,6 +69,3 @@ added for presentation. Other methods (`sanitize_field_value()`,
 `sanitize_json_rows()`, `get_array()`, etc.) and the theme's admin JavaScript
 are not included to keep the sample below the 500-line limit. The excerpts
 must run within their original theme context.
-
-**Sharing note:** Confirm you are authorized to publish these project excerpts
-in a public GitHub Gist or repository. A private link may be preferable.
