@@ -1,6 +1,5 @@
 # Custom CMB (Custom Meta Boxes) in a WordPress Theme
 
-**Code sample for Evolving Web — 494 PHP lines in five files**
 
 ## Context and problem
 
